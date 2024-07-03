@@ -1,3 +1,5 @@
 vault
 env
 data
+
+!res/ *
